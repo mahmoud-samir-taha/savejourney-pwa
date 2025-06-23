@@ -1,0 +1,8 @@
+{
+  "name": "SaveJourney",
+  "short_name": "SaveJourney",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00c7b7"
+}
