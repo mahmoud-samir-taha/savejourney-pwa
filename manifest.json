@@ -4,5 +4,17 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#00c7b7"
+  "theme_color": "#00c7b7",
+  "icons": [
+    {
+      "src": "https://cdn.prod.website-files.com/6842915db828bb4c4872b8df/68618fb00d797b937584ba4c_icon-192x192%20(1).png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6842915db828bb4c4872b8df/68618fb0e13b2d827e2f5b34_icon-512x512%20(1).png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
